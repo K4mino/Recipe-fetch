@@ -1,1 +1,1 @@
-Find reciper by typing key ingredient
+Find recipe by typing key ingredient
